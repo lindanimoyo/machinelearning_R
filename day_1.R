@@ -16,7 +16,10 @@
 # STAGES --------------------------------------------------------------------------------------------------------------
 
 # Astrid Radermacher11:19 AM
-#' @Maria to recap: We want to predict whether or not people phoned by insurance companies will accept a new product telephonically based on previous data points captured, such as how many previous calls were made, what kind of insurance they currently have
+#' @Maria to recap: We want to predict whether or not people phoned by
+#' insurance companies will accept a new product telephonically based on
+#'  previous data points captured, such as how many previous calls were made,
+#'what kind of insurance they currently have
 #' etc
 #' Andrew is currently taking us through the data wrangling step
 
